@@ -1,3 +1,3 @@
 <?php
-phpinfo();
-$a='hello';
+phpinfo();//我做了修改
+$a='你现在会发生冲突的';
